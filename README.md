@@ -1,3 +1,15 @@
+# Project submission
+
+The R scripts for creating the plots need the original data file unzipped in the working directory.
+
+The R script "readData.R" defines a function for reading the data file and subsetting the data. It needs to be present in the working directory.
+
+The R scripts "plot1.R" ... "plot4.R" create the corresponding PNG image files "plot1.png" ... "plot4.png"
+
+
+
+# Original instructions
+
 ## Introduction
 
 This assignment uses data from
